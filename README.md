@@ -41,7 +41,7 @@ Follow the official Flutter installation guide for your operating system:
 2. Clone this repo to your local machine
 
 ```bash
-git clone https://github.com/yourusername/silicon.git
+git clone https://github.com/John-Yumul/silicon.git
 cd silicon
 ```
 3. Install dependencies
