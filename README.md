@@ -33,10 +33,8 @@ Whether you're an investor or an innovator looking to fund your next project, SI
 
 To get started with SILICON, follow these steps:
 
-1.  Install Flutter
-Follow the official Flutter installation guide for your operating system:
-
-[Flutter Instalation](https://www.linkedin.com/in/jeseryl-mae-comia-430591311)
+1.  Install Flutter<br>
+Follow the official Flutter installation guide for your operating system:  [Flutter Instalation](https://www.linkedin.com/in/jeseryl-mae-comia-430591311)
 
 2. Clone this repo to your local machine
 
