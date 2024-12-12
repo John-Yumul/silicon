@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://cdn.discordapp.com/attachments/833997901411516466/1316828904295633008/Silicon.png?ex=675c77fc&is=675b267c&hm=d10b8a856b3b417e649101237ee0334980fef2c9ac78da5ba4a92522812338fd&)
 
 
 # 
