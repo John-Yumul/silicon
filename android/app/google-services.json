@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410926421430",
+    "project_id": "silicon-51351",
+    "storage_bucket": "silicon-51351.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410926421430:android:b5d864d554afa23809dd17",
+        "android_client_info": {
+          "package_name": "com.example.silicon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdBTbvUvNxNKeMdv2unfY1WBHN_H1boA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
