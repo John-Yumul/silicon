@@ -1,9 +1,12 @@
-
-![Logo](https://cdn.discordapp.com/attachments/833997901411516466/1316828904295633008/Silicon.png?ex=675c77fc&is=675b267c&hm=d10b8a856b3b417e649101237ee0334980fef2c9ac78da5ba4a92522812338fd&)
+<p align="center">
+   <img src="https://cdn.discordapp.com/attachments/833997901411516466/1316828904295633008/Silicon.png?ex=675c77fc&is=675b267c&hm=d10b8a856b3b417e649101237ee0334980fef2c9ac78da5ba4a92522812338fd&" />
+</p>
 
 
 # 
-🚀 Investing has never been easier. 🚀
+
+🚀 Putting your idea out there has never been easier. 🚀
+
 
 In the fast-paced world of business, SILICON is changing the game. Gone are the days of joining Facebook groups to find business partners or sifting through countless options to find the right investment. With SILICON, the process of connecting with the right opportunities and partners has never been simpler.
 
@@ -12,24 +15,24 @@ Whether you're an investor or an innovator looking to fund your next project, SI
 
 
 
-## Features
+## ✨ Features ✨
 
 - Curated Investment Opportunities: Browse a wide range of sectors including Real Estate, Technology, Healthcare, Energy, and more.
 - User-Friendly Interface: Designed to make browsing, making a listing, and partnering easier than ever.
 - Seamless Business Partner Matching: Say goodbye to scouring endless forums. SILICON connects you with trustworthy business partners directly.
 - Detailed Listings: Get all the essential information about every opportunity, including investment amounts and business details.
 
-## Tech Stack
+## 🛠️ Tech Stack 🛠️
 
-**Flutter**: For building a smooth mobile experience.
+**Flutter and Dart**: For building a smooth mobile experience.
 
 **Firebase**: For backend services including authentication and database
 
 **Cloudinary**: For managing image uploads.
 
-**Dart**: The programming language powering the app.
+**Java**: The programming language powering the backend connection with firebase
 
-## Installation
+## ⬇️ Installation ⬇️
 
 To get started with SILICON, follow these steps:
 
@@ -52,7 +55,7 @@ You’re all set! Run the app on your emulator or connected device:
 ```bash
 flutter run
 ```
-## Authors
+## 🤝 Authors 🤝
 
 - [John Yumul](https://www.linkedin.com/in/john-yumul-269ab4260/)
 - [Chustine Mae Cantal](https://www.linkedin.com/in/john-yumul-269ab4260/)
