@@ -1,4 +1,4 @@
-/* package com.example.app;
+package com.example.app;
 
 import android.util.Log;
 import androidx.annotation.NonNull;
@@ -53,4 +53,3 @@ public class FirebaseHandler {
             });
     }
 }
- */
