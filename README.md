@@ -62,7 +62,6 @@ Follow the official Flutter installation guide for your operating system:  [Flut
 
 ```bash
 git clone https://github.com/John-Yumul/silicon
-cd silicon
 ```
 3. Install dependencies
 Run the following command to install required packages:
