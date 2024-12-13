@@ -18,7 +18,7 @@ Whether you're an investor or an innovator looking to fund your next project, SI
 ## ✨ Features ✨
 
 <div align="center">
-  <img src="https://github.com/John-Yumul/silicon/blob/main/images/Screenshot%202024-12-13%20101414.png" width="33%" />
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/01fb0c6e-6887-4397-809a-8b0e99f826dc.jpg" width="33%" />
 </div>
 
 - Curated Investment Opportunities: Browse a wide range of sectors including Real Estate, Technology, Healthcare, Energy, and more.
