@@ -28,29 +28,48 @@ Whether you're an investor or an innovator looking to fund your next project, SI
 ---
 
 ## 📸 App Preview 📸
-**Silicon App**
 
 <div align="center">
+  <h2>Silicon App</h2>
   <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462645612_1236439937438297_6640185960420339320_n.jpg" width="33%" />
   <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/465193414_590632693619191_7016131699202039662_n.jpg" width="33%" />
 </div>
 
- - Home Page
-   <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462650451_1268072087723601_1663598335735685041_n.jpg" width="33%" />
-
-- Add Listings
-  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462651605_1126698922303458_751222989469545537_n.jpg" width="33%" />
-  
-- Listings
-  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462640555_951770883518461_4665184568622993777_n.jpg" width="33%" />
-
-- User Profile
-  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462644712_945085090840147_2613562551295992097_n.jpg" width="33%" />
-
-- More Information
-  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462647714_511712028541391_7810880705984003093_n.jpg" width="33%" />
-   
 ---
+
+### Home Page
+<div align="center">
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462650451_1268072087723601_1663598335735685041_n.jpg" width="33%" />
+</div>
+
+---
+
+### Add Listings
+<div align="center">
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462651605_1126698922303458_751222989469545537_n.jpg" width="33%" />
+</div>
+
+---
+
+### Listings
+<div align="center">
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462640555_951770883518461_4665184568622993777_n.jpg" width="33%" />
+</div>
+
+---
+
+### User Profile
+<div align="center">
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462644712_945085090840147_2613562551295992097_n.jpg" width="33%" />
+</div>
+
+---
+
+### More Information
+<div align="center">
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462647714_511712028541391_7810880705984003093_n.jpg" width="33%" />
+</div>
+
 
 ## 🛠️ Tech Stack 🛠️
 
