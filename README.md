@@ -25,11 +25,14 @@ Whether you're an investor or an innovator looking to fund your next project, SI
 
 ## 📸 App Preview 📸
 **Silicon App**
-  <div align="center"> <img align="center" src="https://github.com/John-Yumul/silicon/blob/main/images/Screenshot%202024-12-13%20101414.png" width="33%" /> </div>
-<br>
-   <div align="center"> <img align="center" src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462645612_1236439937438297_6640185960420339320_n.jpg" width="33%" /> </div>
-<br>
-   <div align="center"> <img align="center" src="<div align="center"> <img align="center" src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/465193414_590632693619191_7016131699202039662_n.jpg" width="33%" /> </div>" width="33%" /> </div>   
+
+<div align="center">
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/Screenshot%202024-12-13%20101414.png" width="33%" />
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/462645612_1236439937438297_6640185960420339320_n.jpg" width="33%" />
+  <img src="https://github.com/John-Yumul/silicon/blob/main/images/siliconapp_preview/465193414_590632693619191_7016131699202039662_n.jpg" width="33%" />
+</div>
+
+ - 
 
 ---
 
