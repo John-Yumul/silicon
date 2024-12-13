@@ -84,7 +84,7 @@ flutter run
       <p>Fun Fact: [Fun Fact Placeholder - e.g., John can code in his sleep (almost)!]</p>
     </th>
     <th style="width:33%; text-align: center;">
-      <img src="[Chustine's Photo Placeholder]" alt="Chustine's Photo" width="150" style="border-radius: 50%;">
+      <img src="https://github.com/John-Yumul/silicon/blob/main/images/7ea7e4c2-9a7b-4660-baeb-f74197cab3ea.jpg" alt="Chustine's Photo" width="150" style="border-radius: 50%;">
       <h3>Chustine Mae Cantal</h3>
       <h4>UI/UX Designer, Frontend Developer</h4>
       <p>Fun Fact: [Fun Fact Placeholder - e.g., Chustine has a collection of over 100 different fonts.]</p>
